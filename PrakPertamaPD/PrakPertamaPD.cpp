@@ -24,5 +24,7 @@ int main()
     //display 'Luasnya= ' + nLuas
 
     int nPanjang, nLebar;
+    cout << " Masukan Panjang = ";
+    cin >> nPanjang;
 
 }//end
