@@ -26,7 +26,9 @@ int main()
     int nPanjang, nLebar;
     cout << " Masukan Panjang = ";
     cin >> nPanjang;
-    cout << " Masukan Luas = ";
-    cin >> nLuas;
+    cout << " Masukan Lebar = ";
+    cin >> nLebar;
+    nLuas = nPanjang * nLuas;
+
 
 }//end
