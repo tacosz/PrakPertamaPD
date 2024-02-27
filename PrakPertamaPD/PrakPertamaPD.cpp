@@ -24,11 +24,5 @@ int main()
     //display 'Luasnya= ' + nLuas
 
     int nPanjang, nLebar;
-    cout << "Masukan Panjang= ";
-    cin >> nPanjang;
-    cout << "Masukan Lebar= ";
-    cin >> nLebar;
-    nLuas = nPanjang * nLebar;
-    cout << "Luasnya = " << nLuas << endl;
 
 }//end
