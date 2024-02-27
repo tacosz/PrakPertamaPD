@@ -28,7 +28,8 @@ int main()
     cin >> nPanjang;
     cout << " Masukan Lebar = ";
     cin >> nLebar;
-    nLuas = nPanjang * nLuas;
+    nLuas = nPanjang * nLebar;
+    cout << " Luasnya = " << nLuas << endl;
 
 
 }//end
